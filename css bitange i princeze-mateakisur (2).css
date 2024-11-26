@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: beige;
+}
+h1 {
+	color: darkgreen;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-weight: normal;
+	text-align-last: center;
+	font-style: normal;
+}
+h2 {
+	color: maroon;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-weight: normal;
+	text-align-last: center;
+	font-style: normal
+}
+h3 {
+	color: darkgreen;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-weight: normal;
+	text-align-last: center;
+	font-style: normal
+}
+p {
+	border-style: outset;
+	border-bottom-width: medium;
+	border-bottom-color: indianred;
+	font-family: 'Oxanium', Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 16px;
+	line-height: 18px;
+	background-color: indianred;
+	padding: 20px;
+	text-align-last: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+
